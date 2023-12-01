@@ -30,11 +30,11 @@
 	</li>
 	<li>
 		<p>
-			<strong>Image Source:</strong> Tokens are created using the Bing Image Creator with DALL·E. Source images can be downloaded <a href="#" target="https://drive.google.com/drive/folders/1GApJRyeHzAGO-VyK2mESQzPWsqU9tw8R?usp=sharing">here</a>.</p>
+			<strong>Image Source:</strong> Tokens are created using the Bing Image Creator with DALL·E. Source images can be downloaded <a href="#https://drive.google.com/drive/folders/1GApJRyeHzAGO-VyK2mESQzPWsqU9tw8R?usp=sharing">here</a>.</p>
 	</li>
 	<li>
 		<p>
-			<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href="#" target="https://docs.google.com/spreadsheets/d/1h_HpdIrrvfxKONN8a1Gme5atgrwd341d04odImLR22U/edit?usp=sharing">here</a>.</p>
+			<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href="#https://docs.google.com/spreadsheets/d/1h_HpdIrrvfxKONN8a1Gme5atgrwd341d04odImLR22U/edit?usp=sharing">here</a>.</p>
 	</li>
 	<li>
 		<p>
@@ -42,7 +42,7 @@
 	</li>
 	<li>
 		<p>
-			<strong>Token Creation:</strong> Crafted using Token Stamp 2, ensuring high-quality and visually appealing tokens. Explore Token Stamp 2 <a href="#" target="https://rolladvantage.com/tokenstamp/">here</a>.</p>
+			<strong>Token Creation:</strong> Crafted using Token Stamp 2, ensuring high-quality and visually appealing tokens. Explore Token Stamp 2 <a href="https://rolladvantage.com/tokenstamp/">here</a>.</p>
 	</li>
 	<li>
 		<p>
