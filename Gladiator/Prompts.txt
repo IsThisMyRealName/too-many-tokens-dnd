@@ -1,0 +1,4 @@
+female, gladiator, shield, javelin, running, in arena, dnd painting
+Dragonborn, gladiator, muscular, holding shield and javelin, charging, in arena, DND painting 
+dwarf, gladiator, muscular, holding shield and javelin, fighting, in arena, DND painting
+short elf, gladiator, studded leather armor, holding shield and {javelin spear}, fighting, in arena, DND painting

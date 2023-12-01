@@ -1,0 +1,34 @@
+commoner, male, dark skin, harbour, DND painting
+
+[Type], [Gender], [Features], [Location], DND painting
+
+Type:
+commoner
+dwarf
+dragonborn
+elf
+small elf => gnome
+fantasy human, female => half-elf
+half-elf
+
+Gender:
+Male
+Female
+
+Features:
+Dark Skin
+Red Hair
+Snow
+Rain
+
+Location:
+Market
+Town
+Village
+Harbour
+Tavern
+City
+Bazar
+Forest Road
+Forest Town
+Treehouses

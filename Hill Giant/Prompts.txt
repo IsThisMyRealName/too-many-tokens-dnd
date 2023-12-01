@@ -1,0 +1,3 @@
+primitive, giant, overweight, throwing stone, attacking in hills, fantasy painting
+primitive, giant, overweight, holding branch, attacking in hills, fantasy painting
+primitive, giant, female, overweight, holding dead tree, attacking in town, fantasy painting

@@ -1,0 +1,4 @@
+goblin, leather Armor, scimitar, shield, charging, forest,DND painting
+goblin, leather Armor, bow, on branch, forest,DND painting
+goblin, leather Armor, bow, grassland, on boulder, DND painting
+goblin, leather Armor, schimitar, shield, charging, grassland, DND painting
