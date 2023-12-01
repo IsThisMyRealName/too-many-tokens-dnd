@@ -34,7 +34,7 @@
 	</li>
 	<li>
 		<p>
-			<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href="https://docs.google.com/spreadsheets/d/1h_HpdIrrvfxKONN8a1Gme5atgrwd341d04odImLR22U/edit?usp=sharing">here</a>.</p>
+			<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href="https://docs.google.com/spreadsheets/d/1rz72rePRyx7ggFFwtOyUmu4tKaeiahi-ciCXqjcyZ84/edit?usp=sharing">here</a>.</p>
 	</li>
 	<li>
 		<p>
