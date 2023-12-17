@@ -1,7 +1,7 @@
 {
   "id": "too-many-tokens-dnd",
   "title": "Too Many Tokens - DnD",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
