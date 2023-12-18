@@ -1,0 +1,20 @@
+Version 1.0.3
+	- Remade images
+		- Bulette
+		- Centaur
+		- Githyanki Warrior
+		- Githyanki Knight
+		- Cyclop
+		- Bearded Devil
+		- Flumph
+		- Aarakocra
+		- Drider
+		- Commoner
+		- Abominable Yeti
+		- Yeti
+	- Fixed Borders of
+		- Vrock
+		- Yuan-Ti Abomination
+		- Wyvern
+	- Made images
+		- Glabrezu
