@@ -1,18 +1,18 @@
 <h1 style="text-align: center;"><strong>TooManyTokens - DnD</strong></h1>
-<p>The TooManyTokens module for Foundry VTT features a collection of 136,200 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
+<p>The TooManyTokens module for Foundry VTT features a collection of 14,067 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Thug/ThugElfFemaleMelee%20(10).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Vrock/Vrock%20(2).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Swarm%20of%20Rats/SwarmOfRats%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Pseudodragon/PseudodragonFamiliar%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;<strong>Features:</strong></p>
 <ul>&nbsp;
 <li><strong>Extensive Variety:</strong> Includes at least 20 unique token variations for nearly all monsters, with some categories containing up to 400 tokens, ensuring diverse options for guards, zombies, commoners, and more.&nbsp;</li>
 &nbsp;
-<li><strong>Organized Structure:</strong> Tokens are sorted into subfolders, and named allowing for wildcard usage. For example, selecting "Commoner/Commoner*" will include tokens like CommonerHalfOrcFemaleArctic, CommonerElfMaleUrban, and CommonerTieflingMaleUrban.&nbsp;</li>
+<li><strong>Organized Structure:</strong> Tokens are sorted into subfolders, and named allowing for wildcard usage. For example, selecting "Commoner/Commoner*" will include tokens like CommonerHalfOrcArcticFemale, CommonerElfUrbanMale, and CommonerTieflingUrbanMale.&nbsp;</li>
 &nbsp;
 <li>&nbsp;<strong>Wildcard Examples:</strong> &nbsp;
 <ul>&nbsp; &nbsp;
 <li>To select female commoners: "Commoner*Female*"</li>
 &nbsp; &nbsp;
-<li>To choose urban-themed tiefling commoners: "CommonerTiefling*Urban*"</li>
+<li>To choose urban-themed tiefling commoners: "CommonerTieflingUrban*"</li>
 &nbsp; &nbsp;
 <li>To pick any commoner: "Commoner*"</li>
 &nbsp;</ul>
