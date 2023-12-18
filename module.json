@@ -14,6 +14,6 @@
     }
   ],
   "url": "https://github.com/IsThisMyRealName/too-many-tokens-dnd",
-  "manifest": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/releases/download/BigRelease/module.json",
-  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/BigRelease.zip"
+  "manifest": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/releases/download/1.0.3/module.json",
+  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/1.0.3.zip"
 }
