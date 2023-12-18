@@ -1,34 +1,10 @@
-commoner, male, dark skin, harbour, DND painting
-
-[Type], [Gender], [Features], [Location], DND painting
-
-Type:
-commoner
-dwarf
-dragonborn
-elf
-small elf => gnome
-fantasy human, female => half-elf
-half-elf
-
-Gender:
-Male
-Female
-
-Features:
-Dark Skin
-Red Hair
-Snow
-Rain
-
-Location:
-Market
-Town
-Village
-Harbour
-Tavern
-City
-Bazar
-Forest Road
-Forest Town
-Treehouses
+fantasy digital character drawing artwork color, dragonborn-commoner, warm clothes, in arctic town
+woman, fantasy digital character drawing artwork color, dwarf commoner, short and bulky, linen shirt, sitting in tavern
+woman, fantasy digital character drawing artwork color, elf commoner, linen shirt, in treehouse village
+dwarfism, fantasy digital character drawing artwork color, elf commoner, simple colorful clothes, sitting in tavern
+woman fantasy digital character drawing DND artwork color, middle-aged fantasy human half-elf, simple linen shirt, dark skin, sitting in tavern
+fantasy digital character drawing DND artwork color, human half-orc, small tusks, greyish skin, kaftan, standing in desert town
+woman hobbit, enlarged head, middle aged, fantasy digital DND character drawing artwork color, commoner, kaftan, headscarf, standing on african town square
+fantasy digital character drawing DND artwork color, commoner, simple linen shirt, sitting in tavern
+woman fantasy digital character drawing DND artwork color, commoner, simple kaftan, African, arabic, standing in desert town
+thirty years old fantasy digital character drawing DND artwork color, no pupils, tiefling, small horns, commoner, simple canvas clothes, sitting in tavern
