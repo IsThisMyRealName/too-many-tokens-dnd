@@ -1,3 +1,8 @@
+Version 1.0.4
+	- Remade images
+		- Bandit
+		
+
 Version 1.0.3
 	- Remade images
 		- Bulette
