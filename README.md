@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"><strong>TooManyTokens - DnD</strong></h1>
-<p>The TooManyTokens module for Foundry VTT features a collection of 14,067 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
+<p>The TooManyTokens module for Foundry VTT features a collection of 15,204 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Thug/ThugElfFemaleMelee%20(10).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Vrock/Vrock%20(2).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Swarm%20of%20Rats/SwarmOfRats%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Pseudodragon/PseudodragonFamiliar%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;<strong>Features:</strong></p>
