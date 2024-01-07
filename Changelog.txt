@@ -1,7 +1,7 @@
 Version 1.0.4
 	- Remade images
 		- Bandit
-		
+		- Bandit Captain
 
 Version 1.0.3
 	- Remade images
