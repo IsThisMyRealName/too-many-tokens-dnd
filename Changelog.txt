@@ -1,3 +1,10 @@
+Version 1.0.5
+	- Made images
+		- Beholder Zombie
+	- Fixed Borders of
+		- Abominable Yeti
+		- Beholder Zombie
+		
 Version 1.0.4
 	- Remade images
 		- Bandit

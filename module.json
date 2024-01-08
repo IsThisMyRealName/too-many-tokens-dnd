@@ -1,7 +1,7 @@
 {
   "id": "too-many-tokens-dnd",
   "title": "Too Many Tokens - DnD",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -14,6 +14,6 @@
     }
   ],
   "url": "https://github.com/IsThisMyRealName/too-many-tokens-dnd",
-  "manifest": "https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/module.json",
-  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/1.0.4.zip"
+  "manifest": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/releases/download/latest/module.json",
+  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/1.0.5.zip"
 }
