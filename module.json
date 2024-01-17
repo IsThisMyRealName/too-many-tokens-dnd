@@ -1,7 +1,7 @@
 {
   "id": "too-many-tokens-dnd",
   "title": "Too Many Tokens - DnD",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -13,7 +13,18 @@
       "flags": {}
     }
   ],
+    "scripts": [
+        "main.js"
+    ],
+    "packs": [{
+            "label": "TooManyTokensDnD Macros",
+            "type": "Macro",
+            "name": "toomanytokensdnd-macros",
+            "path": "packs/toomanytokensdnd-macros",
+            "system": "dnd5e"
+        }
+    ],
   "url": "https://github.com/IsThisMyRealName/too-many-tokens-dnd",
   "manifest": "https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/module.json",
-  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/1.0.5.zip"
+  "download": "https://github.com/IsThisMyRealName/too-many-tokens-dnd/archive/refs/tags/1.0.6.zip"
 }

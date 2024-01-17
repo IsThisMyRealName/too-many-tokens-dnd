@@ -1,3 +1,8 @@
+Version 1.0.6
+	- Remade images
+		- Goblin
+		- Added Macro for ease of Wildcard-Assigning
+		- Fixed typo for CommonerElfArcticMale-Files
 Version 1.0.5
 	- Made images
 		- Beholder Zombie
