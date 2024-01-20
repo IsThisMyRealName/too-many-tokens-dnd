@@ -20,8 +20,7 @@
             "label": "TooManyTokensDnD Macros",
             "type": "Macro",
             "name": "toomanytokensdnd-macros",
-            "path": "packs/toomanytokensdnd-macros",
-            "system": "dnd5e"
+            "path": "packs/toomanytokensdnd-macros"
         }
     ],
   "url": "https://github.com/IsThisMyRealName/too-many-tokens-dnd",
