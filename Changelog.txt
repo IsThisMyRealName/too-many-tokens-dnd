@@ -2,6 +2,9 @@ Version 1.0.7
 	- Remade images
 		- Cambion
 		- Goblin Boss
+		- Hobgoblin
+	- Made images
+		- Hobgoblin Captain
 	- Removed system dependency from macros
 
 Version 1.0.6
