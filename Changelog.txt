@@ -4,6 +4,7 @@ Version 1.0.8
 		- Hook Horror
 		- Chimera
 		- Hippogriff
+		- Guardian Naga
 
 Version 1.0.7
 	- Remade images
