@@ -5,6 +5,8 @@ Version 1.0.8
 		- Chimera
 		- Hippogriff
 		- Guardian Naga
+		- Drow
+		- Yuan-Ti Malison Type 1 and 3
 
 Version 1.0.7
 	- Remade images
