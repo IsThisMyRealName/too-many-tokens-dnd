@@ -6,6 +6,7 @@ Version 1.0.8
 		- Hippogriff
 		- Guardian Naga
 		- Drow
+		- Drow Elite Warrior
 		- Yuan-Ti Malison Type 1 and 3
 
 Version 1.0.7
