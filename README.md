@@ -1,5 +1,5 @@
 <h1 style="text-align: center;"><strong>TooManyTokens - DnD</strong></h1>
-<p>The TooManyTokens module for Foundry VTT features a collection of 15,204 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
+<p>The TooManyTokens module for Foundry VTT features a collection of 15,531 ai generated, license free, tokens for monsters with a Challenge Rating (CR) of 10 or lower from the Dungeons &amp; Dragons Monster Manual with a cumulative size of 590MB.</p>
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Thug/ThugElfFemaleMelee%20(10).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Vrock/Vrock%20(2).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Swarm%20of%20Rats/SwarmOfRats%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /><img src="https://raw.githubusercontent.com/IsThisMyRealName/too-many-tokens-dnd/main/Pseudodragon/PseudodragonFamiliar%20(1).webp" alt="ThugElfFemaleMelee" width="200" height="200" /></p>
 <p>&nbsp;</p>
 <p>&nbsp;<strong>Features:</strong></p>
@@ -19,7 +19,7 @@
 &nbsp;</li>
 <li>&nbsp;<strong>Prompts File:</strong> Every subfolder contains a prompts.txt file, offering insights into the prompts used to generate the tokens in that specific folder.</li>
 &nbsp;
-<li><strong>Image Source:</strong> Tokens are created using the Bing Image Creator with DALL&middot;E. Source images can be downloaded <a href="https://drive.google.com/drive/folders/1GApJRyeHzAGO-VyK2mESQzPWsqU9tw8R?usp=sharing" target="_blank" rel="nofollow noopener">here</a>.<br /><br /></li>
+<li><strong>Image Source:</strong> Tokens are created using the Bing Image Creator with DALL&middot;E. Source images can be downloaded <a href="https://drive.google.com/drive/folders/1kq0uZLcbAAj6y8K20oO1cSNfGd9vVDjH?usp=drive_link" target="_blank" rel="nofollow noopener">here</a>.<br /><br /></li>
 <li>&nbsp;<strong>Stats:</strong> View an overview of how many tokens there are and how good they look <a href="https://docs.google.com/spreadsheets/d/1rz72rePRyx7ggFFwtOyUmu4tKaeiahi-ciCXqjcyZ84/edit?usp=sharing" target="_blank" rel="nofollow noopener">here</a>.</li>
 &nbsp;
 <li><strong>Quality Updates:</strong> The module will receive some updates to enhance token quality. Prioritization is given to monsters alphabetically between Aarakocra and Kenku, which were created with an older DALL&middot;E version, ensuring consistent improvements.</li>
