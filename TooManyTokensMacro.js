@@ -49,7 +49,7 @@ const TooManyTokensMacro = async() => {
                     const fullNamesList = fileList.map((file => file.split("/").pop().split("%20")[0].replace(actorNameWithoutSpaces, "")));
                     fullNamesList.forEach((file) => {
                         const fileNameParts = [actorNameWithoutSpaces];
-                        fileNameParts.push(...file.split(/(?=[A-Z])/).filter(Boolean).map((part) => part));
+                        fileNameParts.push(...replaceAfterFirstDragonborn(file).split(/(?=[A-Z])/).filter(Boolean).map((part) => part));
 
                         fileNameParts.forEach((part, index) => {
                             if (!nameLists.has(index)) {
@@ -277,6 +277,14 @@ const getCheckedCheckboxes = (nameLists, actorName) => {
     });
     return checkedCheckboxes;
 };
+
+function replaceAfterFirstDragonborn(inputString) {
+    const index = inputString.indexOf("Dragonborn");
+    if (index !== -1) {
+        return inputString.substring(0, index + "Dragonborn".length);
+    }
+    return inputString;
+}
 
 // Execute the macro
 TooManyTokensMacro();

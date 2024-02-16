@@ -9,6 +9,8 @@ Version 1.0.8
 		- Drow Elite Warrior
 		- Yuan-Ti Malison Type 1 and 3
 		- Acolyte
+		
+	- Improved Macro
 
 Version 1.0.7
 	- Remade images
