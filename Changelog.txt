@@ -1,3 +1,8 @@
+Version 1.0.9
+	- Removed folder "token"
+	- Remade Images
+		- Clay Golem
+
 Version 1.0.8
 	- Remade images
 		- Hobgoblin Warlord
