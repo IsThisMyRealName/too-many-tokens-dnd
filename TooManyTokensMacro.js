@@ -161,7 +161,26 @@ const TooManyTokensMacro = async () => {
                     );
 
                     // Apply the wildcard path to the actor
-                    applyWildcardPathToActor(actor, wildcardPath);
+                    applyWildcardPathToActor(actor, wildcardPath, false);
+                  },
+                },
+                assignTokens: {
+                  label: `Assign Too-Many-Tokens to actor ${actorName} and update token image`,
+                  callback: async () => {
+                    // Get the checked checkboxes for each list
+                    const checkedCheckboxes = getCheckedCheckboxes(
+                      nameLists,
+                      actorName
+                    );
+                    // Create a wildcard path based on selected checkboxes
+                    const wildcardPath = createWildcardPath(
+                      nameLists,
+                      checkedCheckboxes,
+                      actorName
+                    );
+
+                    // Apply the wildcard path to the actor
+                    applyWildcardPathToActor(actor, wildcardPath, true);
                   },
                 },
                 cancel: {
@@ -174,7 +193,9 @@ const TooManyTokensMacro = async () => {
               };
               const dialog = new Dialog({
                 title: `Lists for ${actorName}`,
-                content: dialogContent.outerHTML,
+                content:
+                  dialogContent.outerHTML +
+                  `<p style="font-style: italic; margin-top: 5px;">See all available tokens at <a href="https://toomanytokens.com/?system=dnd&name=${actorName}" target="_blank">toomanytokens.com</a>.</p>`,
                 buttons,
               });
               dialog.position.width = "auto";
@@ -280,7 +301,11 @@ const applyTokenImages = async (actor, wildcardPath) => {
 };
 
 // Function to apply a wildcard path to the actor's token
-const applyWildcardPathToActor = async (actor, wildcardPath) => {
+const applyWildcardPathToActor = async (
+  actor,
+  wildcardPath,
+  updateActorImage
+) => {
   const tokenDocument = await actor.getTokenDocument();
   const actorId = tokenDocument.actorId;
   let baseActor = game.actors.get(actorId);
@@ -299,6 +324,11 @@ const applyWildcardPathToActor = async (actor, wildcardPath) => {
     ui.notifications.info(
       `Found ${tokenImgArray.length} images for "${wildcardPath}"`
     );
+    if (updateActorImage) {
+      await baseActor.update({
+        img: tokenImgArray[0],
+      });
+    }
   } else {
     ui.notifications.warn(`No images found for "${wildcardPath}".`);
     await baseActor.update({
