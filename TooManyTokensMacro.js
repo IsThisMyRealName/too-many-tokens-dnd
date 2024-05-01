@@ -164,7 +164,7 @@ const TooManyTokensMacro = async () => {
                     applyWildcardPathToActor(actor, wildcardPath, false);
                   },
                 },
-                assignTokens: {
+                assignTokensAndUpdateActorImage: {
                   label: `Assign Too-Many-Tokens to actor ${actorName} and update token image`,
                   callback: async () => {
                     // Get the checked checkboxes for each list
