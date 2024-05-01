@@ -1,0 +1,376 @@
+Aarakocra
+Aboleth
+Abominable Yeti
+Acolyte
+Air Elemental
+Allosaurus
+Animated Armor
+Ankheg
+Ankylosaurus
+Ape
+Assassin
+Awakened Shrub
+Awakened Tree
+Axe Beak
+Azer
+Baboon
+Badger
+Bandit Captain
+Bandit
+Banshee
+Barbed Devil
+Barlgura
+Basilisk
+Bat
+Bearded Devil
+Beholder Zombie
+Berserker
+Black Bear
+Black Dragon Wyrmling
+Black Pudding
+Blink Dog
+Blood Hawk
+Blue Dragon Wyrmling
+Blue Slaad
+Boar
+Bone Devil
+Bone Naga
+Brass Dragon Wyrmling
+Bronze Dragon Wyrmling
+Brown Bear
+Bugbear Chief
+Bugbear
+Bulette
+Bullywug
+Cambion
+Camel
+Carrion Crawler
+Cat
+Cave Bear
+Centaur
+Chain Devil
+Chasme
+Chimera
+Chuul
+Clay Golem
+Cloaker
+Cloud Giant
+Cockatrice
+Commoner
+Constrictor Snake
+Copper Dragon Wyrmling
+Couatl
+Crab
+Crawling Claw
+Crocodile
+Cult Fanatic
+Cultist
+Cyclops
+Darkmantle
+Death Dog
+Death Slaad
+Deep Gnome
+Deer
+Deva
+Dire Wolf
+Displacer Beast
+Doppelganger
+Draft Horse
+Dretch
+Drider
+Drow Elite Warrior
+Drow Mage
+Drow Priestess of Lolth
+Drow
+Druid
+Dryad
+Duergar
+Duodrone
+Dust Mephit
+Eagle
+Earth Elemental
+Elephant
+Elk
+Ettercap
+Ettin
+Faerie Dragon
+Fire Elemental
+Fire Giant
+Fire Snake
+Flameskull
+Flesh Golem
+Flumph
+Flying Snake
+Flying Sword
+Fomorian
+Frog
+Frost Giant
+Galeb Duhr
+Gargoyle
+Gas Spore
+Gelatinous Cube
+Ghast
+Ghost
+Ghoul
+Giant Ape
+Giant Badger
+Giant Bat
+Giant Boar
+Giant Centipede
+Giant Constrictor Snake
+Giant Crab
+Giant Crocodile
+Giant Eagle
+Giant Elk
+Giant Fire Beetle
+Giant Frog
+Giant Goat
+Giant Hyena
+Giant Lizard
+Giant Octopus
+Giant Owl
+Giant Poisonous Snake
+Giant Rat
+Giant Scorpion
+Giant Seahorse
+Giant Shark
+Giant Spider
+Giant Toad
+Giant Vulture
+Giant Wasp
+Giant Weasel
+Giant Wolf Spider
+Gibbering Mouther
+Githyanki Knight
+Githyanki Warrior
+Githzerai Monk
+Githzerai Zerth
+Glabrezu
+Gladiator
+Gnoll Fang of Yeenoghu
+Gnoll Pack Lord
+Gnoll
+Goat
+Goblin Boss
+Goblin
+Gold Dragon Wyrmling
+Gorgon
+Gray Ooze
+Gray Slaad
+Green Dragon Wyrmling
+Green Hag
+Green Slaad
+Grell
+Griffon
+Grimlock
+Guard
+Guardian Naga
+Half-Ogre
+Harpy
+Hawk
+Hellhound
+Helmed Horror
+Hezrou
+Hill Giant
+Hippogriff
+Hobgoblin Captain
+Hobgoblin Warlord
+Hobgoblin
+Homunculus
+Hook Horror
+Hunter Shark
+Hydra
+Hyena
+Ice Mephit
+Imp
+Incubus
+Intellect Devourer
+Invisible Stalker
+Jackal
+Jackalwere
+Kenku
+Killer Whale
+Knight
+Kobold
+Kuo-toa Archpriest
+Kuo-toa Monitor
+Kuo-toa Whip
+Kuo-toa
+Lamia
+Lemure
+Lion
+Lizard King
+Lizard Queen
+Lizard
+Lizardfolk Shaman
+Lizardfolk
+Mage
+Magma Mephit
+Magmin
+Mammoth
+Manes
+Manticore
+Mastiff
+Medusa
+Merfolk
+Merrow
+Mezzoloth
+Mimic
+Mindflayer Arcanist
+Mindflayer
+Minotaur Skeleton
+Minotaur
+Monodrone
+Mud Mephit
+Mule
+Mummy
+Myconid Adult
+Myconid Sovereign
+Myconid Sprout
+Needle Blight
+Night Hag
+Nightmare
+Noble
+Nothic
+Nycaloth
+Ochre Jelly
+Octopus
+Ogre Zombie
+Ogre
+Oni
+Orc Eye of Gruumsh
+Orc War Chief
+Orc
+Orog
+Owl
+Owlbear
+Packs
+Panther
+Pegasus
+Pentadrone
+Peryton
+Phase Spider
+Piercer
+Pixie
+Plesiosaurus
+Poisonous Snake
+Polar Bear
+Poltergeist
+Pony
+Priest
+Pseudodragon
+Pteranodon
+Quadrone
+Quaggoth Thonot
+Quaggoth
+Quasit
+Quipper
+Rat
+Raven
+Red Dragon Wyrmling
+Red Slaad
+Reef Shark
+Revenant
+Rhinoceros
+Riding Horse
+Roper
+Rug of Smothering
+Rust Monster
+Saber-Toothed Tiger
+Sahuagin Baron
+Sahuagin Priestess
+Sahuagin
+Salamander
+Satyr
+Scarecrow
+Scorpion
+Scout
+Scripts
+Sea Hag
+Sea Horse
+Shadow Demon
+Shadow
+Shambling Mound
+Shield Guardian
+Shrieker
+Silver Dragon Wyrmling
+Skeleton
+Slaad Tadpole
+Smoke Mephit
+Spectator
+Specter
+Spider
+Spined Devil
+Spirit Naga
+Sprite
+Steam Mephit
+Stirge
+Stone Giant
+Stone Golem
+Succubus
+Swarm of Bats
+Swarm of Beetles
+Swarm of Centipedes
+Swarm of Insects
+Swarm of Poisonous Snakes
+Swarm of Quippers
+Swarm of Rats
+Swarm of Ravens
+Swarm of Spiders
+Swarm of Wasps
+Thri-kreen
+Thug
+Tiger
+Treant
+Tribal Warrior
+Triceratops
+Tridrone
+Troglodyte
+Troll
+Twig Blight
+Tyrannosaurus Rex
+Umber Hulk
+Unicorn
+Vampire Spawn
+Veteran
+Vine Blight
+Violet Fungus
+Vrock
+Vulture
+Warhorse Skeleton
+Warhorse
+Water Elemental
+Water Weird
+Weasel
+Werebear
+Wereboar
+Wererat
+Weretiger
+Werewolf
+White Dragon Wyrmling
+Wight
+Will-o'-Wisp
+Winged Kobold
+Winter Wolf
+Wolf
+Worg
+Wraith
+Wyvern
+Yeti
+Yochol
+Young Black Dragon
+Young Blue Dragon
+Young Brass Dragon
+Young Bronze Dragon
+Young Copper Dragon
+Young Gold Dragon
+Young Green Dragon
+Young Red Dragon
+Young Remorhaz
+Young Silver Dragon
+Young White Dragon
+Yuan-ti Abomination
+Yuan-ti Malison (Type 1)
+Yuan-ti Malison (Type 3)
+Yuan-ti Pureblood
+Zombie
