@@ -1,8 +1,15 @@
-Version 1.0.9
+Version 1.1.0
+	- Added macro for changing selected tokens to any creature, regardless of name
+	- Added option to also change actor portrait when applying wildcard
+	- Added preview link to macros
+	- Some improvements to macros
 	- Removed folder "token"
 	- Remade Images
 		- Clay Golem
-
+	- Fixed naming for:
+		- Cloud Giants
+		- Barbed Devil
+		
 Version 1.0.8
 	- Remade images
 		- Hobgoblin Warlord
