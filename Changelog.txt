@@ -1,3 +1,7 @@
+Version 1.1.1
+	- Fixed some namings
+	- Hopefully fixed the macros not appearing for Linux users
+
 Version 1.1.0
 	- Added macro for changing selected tokens to any creature, regardless of name
 	- Added option to also change actor portrait when applying wildcard
